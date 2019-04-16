@@ -1,0 +1,21 @@
+.header {
+  background-color: blue;
+  border-color: #dddddd;
+  border-width: 1px;
+  position: fixed;
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+  height: 40px;
+  width: 100%;
+}
+.footer {
+  background-color: #666666;
+}
+.main-content {
+  background-color: #ffffff;
+  border-color: #dddddd;
+}
+.main-header {
+  border-color: #cccccc;
+}
