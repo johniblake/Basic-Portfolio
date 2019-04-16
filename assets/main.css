@@ -1,3 +1,8 @@
+/* TODO:  
+  - format link font-family
+
+*/
+
 body {
   margin: 0;
 }
@@ -82,4 +87,8 @@ a:visited {
   color: #777777;
   text-decoration: none;
   text-decoration-color: none;
+}
+
+a:hover {
+  color: black;
 }
